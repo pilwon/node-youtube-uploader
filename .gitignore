@@ -1,0 +1,8 @@
+#
+# .gitignore
+#
+
+*.pyc
+lib/client_secrets.json
+lib/upload_video.py-oauth2.json
+node_modules
