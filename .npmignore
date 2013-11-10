@@ -1,0 +1,12 @@
+#
+# .npmignore
+#
+
+/.editorconfig
+/.gitattributes
+/.jshintrc
+/.npmignore
+/Gruntfile.js
+/lib/client_secrets.json
+/lib/upload_video.py-oauth2.json
+*.pyc

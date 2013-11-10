@@ -2,7 +2,8 @@
 # .gitignore
 #
 
+/lib/client_secrets.json
+/lib/upload_video.py-oauth2.json
+/node_modules/
+/npm-debug.log
 *.pyc
-lib/client_secrets.json
-lib/upload_video.py-oauth2.json
-node_modules
